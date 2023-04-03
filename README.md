@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @harve106
 - 👀 I’m interested in Machine Learning, Process Automation, Low Level Programming
-- 🌱 I’m currently learning Software Engineering, Advanced Algorithms, Compilers
+- 🌱 I’m currently learning Software Testing, Advanced Algorithms, Compilers
 - 💞️ I’m looking to collaborate on anything I'm capable of learning
 - 📫 How to reach me harve106@purdue.edu
 
